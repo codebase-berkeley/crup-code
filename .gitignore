@@ -207,3 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 .DS_Store
+
+# Solutions live in the private codebase-berkeley/crup-solutions repo
+*_sol.ipynb
+*_solution.ipynb
+*_sol.py
